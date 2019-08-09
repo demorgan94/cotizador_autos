@@ -1,0 +1,21 @@
+.container {
+   background: #fff;
+
+   form {
+      width: 50%;
+      margin: 20px auto;
+
+      .check {
+         text-align: center;
+
+         .plan_lbl {
+            font-size: 22px;
+            margin-right: 10px;
+         }
+      }
+
+      button {
+         width: 100%;
+      }
+   }
+}
